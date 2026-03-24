@@ -1,7 +1,7 @@
 # The "Homework"
 > **Made by pay gorn**
 
-Welcome to my gaming repository! Here you can find out about the games I build.
+Welcome to my gaming repository! Here you can find out about the games I build. Well more like find from the internet
 ---
 
 ### 🕹️ Featured Games
