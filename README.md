@@ -13,11 +13,11 @@ Welcome to my gaming repository! Here you can find out about the games I build.
 #### 2. big tower tiny square
 square stole pinapple, kill him
 
-<img width="216" height="120" alt="image" src="https://github.com/user-attachments/assets/5e08933e-a3c7-470e-8eaf-43459039d9a8" />
+<img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/5e08933e-a3c7-470e-8eaf-43459039d9a8" />
 
 #### 3. subway surfuers
 
-<img width="820" height="480" alt="image" src="https://github.com/user-attachments/assets/544b688d-ad23-462e-93d6-dd012b51ef98" />
+<img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/544b688d-ad23-462e-93d6-dd012b51ef98" />
 
 
 ---
