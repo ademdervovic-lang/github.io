@@ -6,9 +6,9 @@ Welcome to my gaming repository! Here you can find out about the games I build.
 
 ### 🕹️ Featured Games
 
-#### 1. Minecraft
-Explore, build, and survive in a blocky world! 
-[![Watch Trailer](https://img.shields.io/badge/Watch_Trailer-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
+#### slope
+<img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/9027929f-36dd-4326-a39c-97ea79356b7a" />
+
 
 #### 2. Roblox
 Discover millions of 3D experiences created by a global community.
