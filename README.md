@@ -19,8 +19,10 @@ Experience the ultimate open-world adventure.
 [![Watch Review](https://img.shields.io/badge/Watch_Review-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
 
 ---
+---
 
-### 🌐 My Socials
-Want to see more? Check out my main channel:
+### 💬 Questions?
+If you have any questions about my games or projects, feel free to reach out!
 
-[![YouTube Channel](https://img.shields.io/badge/Subscribe_to_Adem_D-282828?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
+[![Message me on Instagram](https://img.shields.io/badge/Message_me_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ademdervovic/?hl=en)
+
